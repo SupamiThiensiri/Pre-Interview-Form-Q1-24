@@ -27,6 +27,7 @@ npm test
 ```
 
 ## โครงสร้างโปรเจกต์
+```bash
 merge-sort-ts/
 ├── src/
 │   └── merge.ts            # ฟังก์ชัน merge
@@ -36,3 +37,4 @@ merge-sort-ts/
 ├── tsconfig.json
 ├── jest.config.js
 └── .gitignore
+```
